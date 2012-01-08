@@ -1,0 +1,9 @@
+kScreen/ipch
+kScreen/Debug
+kScreen/Release
+kScreen/kScreen/Debug
+kScreen/kScreen/Release
+*.dll
+*.exe
+*.sdf
+Thumbs.db
